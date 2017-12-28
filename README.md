@@ -1,0 +1,2 @@
+# Othello
+Q-learning trial
